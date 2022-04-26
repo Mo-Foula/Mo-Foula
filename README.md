@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Foula
 ==============================
 
-Undergraduate, passionate about backend and problem solving
+ACPC Finalist, backend intern at FaturaEgypt, software engineering undergraduate, passionate about backend and problem solving
 
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  You can contact me at: [Mohamed Foula](https://bio.link/mohamed\_foula)
