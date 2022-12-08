@@ -5,7 +5,7 @@ ACPC Finalist, backend software engineer at FaturaEgypt, fresh graduate passiona
 
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  You can contact me at: [Mohamed Foula](https://bio.link/mohamed\_foula)
-* 🧠  I'm learning Node.js
+* 🧠  I'm trying to specialize in Node.js
 
 ### Skills
 
