@@ -26,10 +26,4 @@ ACPC Finalist, backend software engineer at FaturaEgypt, fresh graduate passiona
 </p>
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo-Foula&show_icons=true&locale=en&layout=compact" alt="Mo-Foula" /></p>
-
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mo-Foula?cardType=github&preferLogin=false)](https://git.io/awesome-stats-card)
