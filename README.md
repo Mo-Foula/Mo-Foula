@@ -12,7 +12,7 @@ ACPC Finalist, backend software engineer at FaturaEgypt, fresh graduate passiona
 <a href="https://www.linkedin.com/in/mohamed-foula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-foula/" height="30" width="40" /></a>
 <a href="https://leetcode.com/mohamedmfoula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohamedmfoula/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Foula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Foula" height="30" width="40" /></a>
-<a href="https://icpc.global/ICPCID/F1VP0KR0K5GF" target="blank"><img align="center" src="./icpc logo.png" alt="https://icpc.global/ICPCID/F1VP0KR0K5GF" height="30" width="40" /></a>
+<a href="https://icpc.global/ICPCID/F1VP0KR0K5GF" target="blank"><img align="center" src="./logos/icpc logo.png" alt="https://icpc.global/ICPCID/F1VP0KR0K5GF" height="30" width="40" /></a>
 
 
 ### Skills
