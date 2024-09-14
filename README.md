@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohamed Foula
 ==============================
 
-Hi! I'm a backend software engineer with experience in system design and building solutions across Fintech, B2B, and e-commerce domains. I enjoy tackling challenging problems and contributing to impactful projects.
+Hi! I’m a backend software engineer with a strong focus on product development and system design. My experience spans Fintech, B2B, credit, and collections domains, and I’m passionate about building scalable solutions that address real-world challenges.
 
 * 🌍  I'm based in Egypt
 * 🖥️  You can contact me at: [Mohamed Foula](https://bio.link/mohamed\_foula)
