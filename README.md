@@ -1,11 +1,10 @@
 Hi 👋 My name is Mohamed Foula
 ==============================
 
-ACPC Finalist, backend software engineer at FaturaEgypt, fresh graduate passionate about backend and problem-solving
+Hi! I'm a backend software engineer with experience in system design and building solutions across Fintech, B2B, and e-commerce domains. I enjoy tackling challenging problems and contributing to impactful projects.
 
-* 🌍  I'm based in Alexandria, Egypt
+* 🌍  I'm based in Egypt
 * 🖥️  You can contact me at: [Mohamed Foula](https://bio.link/mohamed\_foula)
-* 🧠  I'm trying to specialize in Node.js
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
